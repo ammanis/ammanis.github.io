@@ -27,9 +27,9 @@ navbar-links:
   # Author's home: "https://deanattali.com"
   Feature Showcase: "featureshowcase"
   Community Section:
-    - Discussion Forums:
-    - Mailing Lists: 
-    - Other Communication Channels:
+    - Discussion Forums: "discussionforums.md"
+    - Mailing Lists: "mailinglists"
+    - Other Communication Channels: "othercomms"
 
 ################
 # --- Logo --- #
