@@ -20,11 +20,16 @@ author: Ammar Badran
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # About Me: "aboutme"
+  # Resources:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
+  Feature Showcase: "featureshowcase"
+  Community Section:
+    - Discussion Forums:
+    - Mailing Lists: 
+    - Other Communication Channels:
 
 ################
 # --- Logo --- #
