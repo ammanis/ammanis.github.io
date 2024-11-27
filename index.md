@@ -4,8 +4,6 @@ title: Homepage
 subtitle: Mission statement, latest updates, and key modules of levelSight
 ---
 
-# **Welcome to levelSight**
-
 ## 🎯 **Our Mission**
 At **levelSight**, our mission is to empower beginner game developers with a simple yet effective analytics tool to track, analyze, and visualize player behavior. By providing actionable insights, we aim to help developers design engaging games that deliver maximum satisfaction for players. 
 
