@@ -21,10 +21,7 @@ author: Ammar Badran
 
 navbar-links:
   Feature Showcase: "featureshowcase"
-  Community Section:
-    - Discussion Forums: "discussionforums"
-    - Mailing Lists: "mailinglists"
-    - Other Communication Channels: "othercomms"
+  Community Section: "discussionforums"
 
 ################
 # --- Logo --- #
