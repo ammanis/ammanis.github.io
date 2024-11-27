@@ -20,12 +20,11 @@ subtitle: Have any question or just curious? Ask us here!
 
 </div>
 
+---
 
-## Mailing List
+###Mailing List
 
 Welcome to our project's mailing list! Here, you can keep track of updates, announcements, and opportunities to contribute.  
-
----
 
 ### 📬 **Subscribers**
 
