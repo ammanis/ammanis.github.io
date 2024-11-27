@@ -1,41 +1,45 @@
 ---
 layout: home
 title: Homepage
-subtitle: Mission statement, Live documentation and GitHub repository
+subtitle: Mission statement, latest updates, and key modules of levelSight
 ---
 
-# levelSight: Game Analytics for Beginners
+# **Welcome to levelSight**
 
-levelSight is an open-source analytics tool specifically designed for beginner game developers. It tracks, analyzes, and visualizes player behavior data, enabling developers to improve their games with data-driven insights. 
-
-**Beginners game developers** will gain benefits from this tool because this tool is specified for simple yet functional tool to track player behavior in general. It is beginners friendly and could motivate the young developers to upgrade their game, ensuring maximum satisfaction from user. 
-
----
-
-## 🎯 **Why Use levelSight?**
-- Improve game design with actionable insights.
-- Balance difficulty to enhance user experience.
-- Motivate young developers to create better games.
+## 🎯 **Our Mission**
+At **levelSight**, our mission is to empower beginner game developers with a simple yet effective analytics tool to track, analyze, and visualize player behavior. By providing actionable insights, we aim to help developers design engaging games that deliver maximum satisfaction for players. 
 
 ---
 
-## 🛠️ **How It Works**
-1. **Install**: Add levelSight to your game project.
-2. **Track**: Automatically collect data on player behavior.
-3. **Analyze**: Use the tool's visualizations to make improvements.
+## 📰 **Latest News: Release v0.0.1**  
+We’re excited to announce the first public release of **levelSight**: [v0.0.1](https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool/releases/tag/v0.0.1).  
+
+### 🚀 **What’s New?**
+- **Player Behavior Tracking**: Input youself data on levels completed, time spent, and player failures.
+- **Basic Data Visualization**: Simple output on console.
+
+Stay tuned for more updates as we refine and expand the tool!
 
 ---
 
-## 🔗 **Get Started**
-- **[Download the Latest Release](https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool/releases/tag/v0.0.1)**
-- **[Live Documentation](https://docs.google.com/document/d/160q1qgwh-Z7d9q4Ufo7B6-af3894MsSimJdnopgx5BI/edit?usp=sharing)**
+## 🧩 **Modules in levelSight**
+### Please check out [Feature Showcase](https://ammanis.github.io/featureshowcase/)
+
+---
+
+## 🌟 **Related Projects**
+While levelSight is unique in its focus on beginner-friendly game analytics, it draws inspiration from and can complement tools like:
+- **Matomo**: An open-source analytics platform for general website and app tracking.
+- **OpenReplay**: A session replay tool to understand user behavior.
+- **GameAnalytics**: A tool tailored to professional game studios for advanced analytics.
+
+If you’re exploring game analytics tools, these related projects can be great resources!
+
+---
+
+### 🔗 **Get Started**
+- **[Download levelSight v0.0.1](https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool/releases/tag/v0.0.1)**
+- **[Live Documentation](https://docs.google.com/document/d/160q1qgwh-Z7d9q4Ufo7B6-af3894MsSimJdnopgx5BI/edit?usp=sharing)**  
 - **[GitHub Repository](https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool)**
 
----
-
-## 🌍 **Join the Community**
-Contribute to levelSight and make a difference!  
-👉 **[Contribute on GitHub](https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool)**
-
-
-
+Join us on this journey to make game development smarter, simpler, and more data-driven!
