@@ -22,7 +22,9 @@ subtitle: Have any question or just curious? Ask us here!
 
 ### Mailing List
 
-Welcome to our project's mailing list! Here, you can keep track of updates, announcements, and opportunities to contribute.  
+Welcome to our project's mailing list! Here, you can keep track of updates, announcements, and opportunities to contribute. 
+
+---
 
 ### 📬 **Subscribers**
 
